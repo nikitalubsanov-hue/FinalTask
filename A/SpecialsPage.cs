@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace FinalTask.Pages
+namespace Pages
 {
     public class SpecialsPage(IWebDriver driver) : BasePage(driver)
     {
