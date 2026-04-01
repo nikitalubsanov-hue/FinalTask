@@ -14,7 +14,6 @@ namespace Test
             Log.Information("Starting UC-3");
 
             var mainPage = new MainPage(driver);
-
             var specialsPage = new SpecialsPage(driver);
 
             // ACT
