@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Pages
+namespace FinalTask.Pages
 {
     public class AccountLoginPage(IWebDriver driver) : BasePage(driver)
     {

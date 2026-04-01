@@ -1,8 +1,8 @@
-﻿using Core;
+﻿using FinalTask.Core;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
-namespace Pages
+namespace FinalTask.Pages
 {
     public class CreateAccountPage(IWebDriver driver) : BasePage(driver)
     {

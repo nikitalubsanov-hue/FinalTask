@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Pages
+namespace FinalTask.Pages
 {
     public class SpecialsPage(IWebDriver driver) : BasePage(driver)
     {
@@ -13,7 +13,7 @@ namespace Pages
 
             if (products.Count == 0)
             {
-                return false;
+            return false;
             }
 
             foreach (var product in products)
