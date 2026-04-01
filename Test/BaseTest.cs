@@ -1,7 +1,6 @@
 ﻿using Core;
 using OpenQA.Selenium;
 using Serilog;
-using System.Buffers.Text;
 
 namespace Test
 {
