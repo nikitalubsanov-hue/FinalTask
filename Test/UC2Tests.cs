@@ -1,8 +1,8 @@
-﻿/*using FluentAssertions;
-using FinalTask.Pages;
+﻿using FluentAssertions;
+using Pages;
 using Serilog;
 
-namespace FinalTask
+namespace Test
 {
     public class UC2Tests : BaseTest
     {
@@ -35,4 +35,4 @@ namespace FinalTask
             Log.Information("UC-2 Finished successfully");
         }
     }
-}*/
+}
