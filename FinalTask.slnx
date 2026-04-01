@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Core/Core.csproj" Id="dbf884c2-9349-40b8-ae6a-839e74f8b635" />
+  <Project Path="Pages/Pages.csproj" Id="4ec4988e-4c23-4349-8125-8ea587d544aa" />
   <Project Path="Test/Test.csproj" Id="eb2da85e-5d93-4f65-8372-8ecfe5b544f0" />
 </Solution>
