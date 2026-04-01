@@ -13,7 +13,7 @@ namespace Pages
 
             if (products.Count == 0)
             {
-            return false;
+                return false;
             }
 
             foreach (var product in products)

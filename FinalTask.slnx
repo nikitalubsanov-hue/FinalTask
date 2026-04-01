@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="A/Pages.csproj" Id="8065283d-57ce-4662-9176-fca2a47b027b" />
   <Project Path="Core/Core.csproj" Id="dbf884c2-9349-40b8-ae6a-839e74f8b635" />
+  <Project Path="Pages/Pages.csproj" Id="32c5d9d4-60e8-405d-85bb-604bd8a8a3ae" />
   <Project Path="Test/Test.csproj" Id="eb2da85e-5d93-4f65-8372-8ecfe5b544f0" />
 </Solution>
